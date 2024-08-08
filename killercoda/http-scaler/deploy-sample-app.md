@@ -108,4 +108,6 @@ kubectl get ingress -ndefault blue
 
 Well done! Now you are ready to explore HTTP autoscaling and Kedify agent autowiring.
 
+
+
 ##### 3 / 4
